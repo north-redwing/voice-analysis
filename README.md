@@ -1,4 +1,4 @@
-# voice_analysis
+# voice-analysis
 [PyWorld](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder/blob/master/README.md) and [pyreaper](https://github.com/r9y9/pyreaper) implementation of voice analysis.
 
 # Dependencies
