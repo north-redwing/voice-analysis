@@ -33,7 +33,7 @@ $ pip install pysptk
 
 ![pyworld_f0.png](https://qiita-image-store.s3.amazonaws.com/0/324488/1eeb297b-d898-9e78-74bf-242610f7d037.png)
 
--Calculate Time
+- Calculate Time
 
 ![pyworld_time.png](https://qiita-image-store.s3.amazonaws.com/0/324488/f2bfcf95-7752-28dc-8b0c-036a916d8344.png)
 
@@ -43,7 +43,7 @@ $ pip install pysptk
 ![reaper_1.png](https://qiita-image-store.s3.amazonaws.com/0/279783/13f70ed1-2c32-e868-87bc-bf6d523f8cc0.png)
 
 
--Pitch Mark
+- Pitch Mark
 
 ![reaper_2.png](https://qiita-image-store.s3.amazonaws.com/0/279783/2a2f1f68-2d11-ba40-ec13-6831253f3dd5.png)
 
