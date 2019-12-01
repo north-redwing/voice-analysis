@@ -1,11 +1,11 @@
 # voice-analysis
 [PyWorld](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder/blob/master/README.md) and [pyreaper](https://github.com/r9y9/pyreaper) implementation of voice analysis.
 
-# Dependencies
+## Dependencies
 **You must not use Anaconda as a python environmet !**  
 [Does not work in Anaconda #12](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder/issues/12)  
 
-# Install
+## Install
 ### PyWorld
 **You must install scipy first.**
 ```
@@ -23,8 +23,8 @@ $ python setup.py develop
 $ pip install pysptk
 ```
 
-# Results
-## PyWorld
+## Results
+### PyWorld
 - Raw Data
 
 ![pyworld_rpw.png](https://qiita-image-store.s3.amazonaws.com/0/324488/4fe6f5eb-160d-af44-b342-2ceeafba5493.png)
@@ -37,7 +37,7 @@ $ pip install pysptk
 
 ![pyworld_time.png](https://qiita-image-store.s3.amazonaws.com/0/324488/f2bfcf95-7752-28dc-8b0c-036a916d8344.png)
 
-## pyreaper
+### pyreaper
 - Raw Data
 
 ![reaper_1.png](https://qiita-image-store.s3.amazonaws.com/0/279783/13f70ed1-2c32-e868-87bc-bf6d523f8cc0.png)
